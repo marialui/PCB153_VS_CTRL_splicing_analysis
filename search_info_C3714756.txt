@@ -1,0 +1,23 @@
+SEARCH INFORMATION
+==================
+
+Download Date:       08/01/2026, 11:54:56
+
+SEARCH DETAILS
+--------------
+Search Terms:        Intellectual Disability (CUI: C3714756)
+Analysis Type:       DISEASES
+Data Type:           Summary
+Source:              CURATED
+Tab:                 DDA
+Total Results:       195
+
+FILTERS APPLIED
+---------------
+
+
+DISPLAY SETTINGS
+----------------
+Visible Columns:     disease2_Name, ngenes_diseaseID_2, nvariants_diseaseID_2, disease2ClassName_MSH, shared_genes, jaccard_genes, pvalue_jaccard_genes, shared_variants, jaccard_variants, pvalue_jaccard_variants, sokal, ddaRelation
+
+==================
