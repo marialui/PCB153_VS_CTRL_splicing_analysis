@@ -226,21 +226,13 @@ nested_pie_chart.png
 Software & Package Versions
 <details> <summary><b>Computational tools, sequencing resources, and reference annotations</b></summary>
 
-Plotly v6.5.2 (volcano plots and interactive visualizations)
+Plotly (v6.5.2)
 
-GENCODE GRCh38/hg38 v39 (reference annotation)
-
-Ensembl GRCh38 assembly (GTF v112 used in motif analyses)
-
-rMATS (version not specified; standard paired-end implementation used)
-
-BAM/SAM processing from STAR-aligned reads
+rMATS (v4.3.0)
 
 GTF annotation: GENCODE GRCh38 v39
 
 enrich_omics v0.2.1
-
-EnrichR (web-based enrichment platform; version not applicable)
 
 </details>
 <details> <summary><b>Enrichment databases used</b></summary>
@@ -254,23 +246,22 @@ GO Cellular Component 2025
 </details>
 <details> <summary><b>RBP motif analysis and genomic tools</b></summary>
 
-RBPBench (version not specified; latest stable release used)
+RBPBench (v1.0.1)
 
-BEDTools v2.30.0 (getfasta for sequence extraction)
+BEDTools (v2.30.0)
 
 </details>
 <details> <summary><b>Programming environment and Python ecosystem</b></summary>
 
-Python v3.9.12
+Python (v3.9.12)
 
-Biopython v1.84
+Biopython (v1.84)
 
-pandas v2.2.2
+pandas (v2.2.2)
 
-seaborn v0.13.2
+seaborn (v0.13.2)
 
-matplotlib v3.9.1
+matplotlib (v3.9.1)
 
-Plotly v6.5.2 (volcano plots and interactive visualizations)
-
+Plotly (v6.5.2)
 </details>
