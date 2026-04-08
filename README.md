@@ -3,9 +3,13 @@ This repository contains a complete computational workflow to study how PCB 153 
 The project integrates:
 
 rMATS-based alternative splicing detection
+
 Functional enrichment (EnrichR / enrich_omics)
+
 Retained intron premature stop codon analysis
+
 RBP motif enrichment and localization (RBPBench)
+
 Publication-ready visualization
 
 -  0_rmats.ipynb
