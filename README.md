@@ -75,5 +75,27 @@ Publication-ready visualization
      DASE sequences
      background regions
    Final dataset creation:RBP_DEG_specific_final_motif_with_position.xlsx
+
+ -  4-rbp-plot-deg-specific.ipynb
+   Splits data into:
+      Positive ΔPSI
+      Negative ΔPSI
+   Creates composite labels:
+      geneSymbol + splicing class
+   Plots:
+      X-axis: motif position (upstream / exon / downstream)
+      Y-axis: GeneClass
+   Hue: RBP identity
+   Output figures:
+      positive_PSI_events.png
+      negative_PSI_events.png
+   Aggregates RBP counts
+   Computes motif positional distribution per RBP
+   Builds hierarchical visualization:
+      Inner ring → RBP abundance
+      Outer ring → motif position distribution
+   Output:
+      nested_pie_chart.png
+
     
 
