@@ -224,7 +224,7 @@ nested_pie_chart.png
 
 </details> 
 Software & Package Versions
-<details> <summary><b>Computational environment and core tools</b></summary>
+<details> <summary><b>Computational tools, sequencing resources, and reference annotations</b></summary>
 
 Plotly v6.5.2 (volcano plots and interactive visualizations)
 
@@ -243,12 +243,34 @@ enrich_omics v0.2.1
 EnrichR (web-based enrichment platform; version not applicable)
 
 </details>
-<details> <summary><b>Enrichment databases</b></summary>
+<details> <summary><b>Enrichment databases used</b></summary>
 
 DisGeNET
 KEGG 2021 Human
 GO Biological Process 2025
 GO Molecular Function 2025
 GO Cellular Component 2025
+
+</details>
+<details> <summary><b>RBP motif analysis and genomic tools</b></summary>
+
+RBPBench (version not specified; latest stable release used)
+
+BEDTools v2.30.0 (getfasta for sequence extraction)
+
+</details>
+<details> <summary><b>Programming environment and Python ecosystem</b></summary>
+
+Python v3.9.12
+
+Biopython v1.84
+
+pandas v2.2.2
+
+seaborn v0.13.2
+
+matplotlib v3.9.1
+
+Plotly v6.5.2 (volcano plots and interactive visualizations)
 
 </details>
