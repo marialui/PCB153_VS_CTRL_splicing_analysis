@@ -226,7 +226,6 @@ nested_pie_chart.png
 Software & Package Versions
 <details> <summary><b>Computational tools, sequencing resources, and reference annotations</b></summary>
 
-Plotly (v6.5.2)
 
 rMATS (v4.3.0)
 
