@@ -222,4 +222,33 @@ Output:
 
 nested_pie_chart.png
 
+</details> 
+Software & Package Versions
+<details> <summary><b>Computational environment and core tools</b></summary>
+
+Plotly v6.5.2 (volcano plots and interactive visualizations)
+
+GENCODE GRCh38/hg38 v39 (reference annotation)
+
+Ensembl GRCh38 assembly (GTF v112 used in motif analyses)
+
+rMATS (version not specified; standard paired-end implementation used)
+
+BAM/SAM processing from STAR-aligned reads
+
+GTF annotation: GENCODE GRCh38 v39
+
+enrich_omics v0.2.1
+
+EnrichR (web-based enrichment platform; version not applicable)
+
+</details>
+<details> <summary><b>Enrichment databases</b></summary>
+
+DisGeNET
+KEGG 2021 Human
+GO Biological Process 2025
+GO Molecular Function 2025
+GO Cellular Component 2025
+
 </details>
